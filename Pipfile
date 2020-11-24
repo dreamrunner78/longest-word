@@ -7,7 +7,11 @@ verify_ssl = true
 
 [packages]
 requests = "*"
+<<<<<<< HEAD
 gunicorn = "*"
+=======
+flask = "*"
+>>>>>>> e08eb084f08e3b9c129e18e291db4165a8ef41e3
 
 [requires]
 python_version = "3.7"
