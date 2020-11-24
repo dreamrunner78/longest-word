@@ -15,7 +15,7 @@ class Game ():
         #if False in res:
         #    return False
         #return True
-        self.__check_dictionary(word)
+        return self.__check_dictionary(word)
 
     @staticmethod
     def __check_dictionary(word):
